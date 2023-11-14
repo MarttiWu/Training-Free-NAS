@@ -5,7 +5,7 @@ A list of training-free neural architecture search papers.
 
 ## Training-Free NAS papers
 |  RS  |   BO  |   RL   |   DSA   |   MA   |
-|:--------|:--------:|:--------:|:--------:|:--------:|
+|:--------|:--------|:--------|:--------|:--------|
 | Random Search | Bayesian Optimization | Reinforcement Learning | Differentiable Search Algorithm | Metaheuristic Algorithm |
 
 |  Title  |   Venue  |   Type   |   Code   |   Year  |
@@ -39,3 +39,15 @@ A list of training-free neural architecture search papers.
 | [Low-Cost Recurrent Neural Network Expected Performance Evaluation](https://arxiv.org/abs/1805.07159) | arXiv | RS | - | 2018 |
 
 ## NAS Benchmarks
+
+|  Title  |  Venue  |  Unique Architectures  |  Code  |
+|:--------|:--------:|:--------:|:--------:|
+| [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://proceedings.mlr.press/v97/ying19a.html) | ICML | 423.6k | [Github](https://github.com/google-research/nasbench) |
+| [NAS-Bench-201: Extending the Scope of Reproducible Neural Architecture Search](https://arxiv.org/abs/2001.00326) | ICLR | 6.5k | [Github](https://github.com/D-X-Y/NAS-Bench-201) |
+| [NATS-Bench: Benchmarking NAS Algorithms for Architecture Topology and Size](https://ieeexplore.ieee.org/abstract/document/9336247) | TPAMI | 6.5k+32.8k | [Github](https://github.com/D-X-Y/NATS-Bench) |
+| [NAS-Bench-301 and the Case for Surrogate Benchmarks for Neural Architecture Search ](https://arxiv.org/abs/2008.09777) | arXiv | 10^18+60k | [Github](https://github.com/automl/nasbench301) |
+| [NAS-Bench-1Shot1: Benchmarking and Dissecting One-shot Neural Architecture Search](https://arxiv.org/abs/2001.10422) | ICLR | 14.6k | [Github](https://github.com/automl/nasbench-1shot1) |
+| [NAS-Bench-NLP: Neural Architecture Search Benchmark for Natural Language Processing](https://ieeexplore.ieee.org/abstract/document/9762315) | IEEE Access | 14k | [Github](https://github.com/fmsnew/nas-bench-nlp-release) |
+| [TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search](http://openaccess.thecvf.com/content/CVPR2021/html/Duan_TransNAS-Bench-101_Improving_Transferability_and_Generalizability_of_Cross-Task_Neural_Architecture_Search_CVPR_2021_paper.html) | CVPR | 7.3k | [VEGA]( https://www.noahlab.com.hk/opensource/vega/page/doc.html?path=datasets/transnasbench101) |
+| [NAS-Bench-360: Benchmarking Neural Architecture Search on Diverse Tasks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/506630e4a43bb9d64a49f98b9ba934e9-Abstract-Datasets_and_Benchmarks.html) | NeurIPS | 15.6k | [Github](https://github.com/rtu715/NAS-Bench-360) |
+| [NAS-Bench-Zero: A Large Scale Dataset for Understanding Zero-Shot Neural Architecture Search](https://openreview.net/forum?id=hP-SILoczR) | - | 14.9k+10.1k+9.7k | - |
