@@ -1,0 +1,28 @@
+Title,Venue,Type,Code,Year
+A Training-Free Neural Architecture Search Algorithm based on Search Economics,TEVC,MA,y,2023
+Connection Sensitivity Matters for Training-free DARTS: From Architecture-Level Scoring to Operation-Level Sensitivity Analysis,arXiv,DSA,n,2023
+FreeREA: Training-Free Evolution-Based Architecture Search,WACV,MA,y,2023
+Zero-Cost Operation Scoring in Differentiable Architecture Search,arXiv,DSA,y,2023
+Auto-Scaling Vision Transformers without Training,ICLR,RL,y,2022
+GradSign: Model Performance Inference with Theoretical Insights,ICLR,RS,y,2022
+Global Convergence of MAML and Theory-Inspired Neural Architecture Search for Few-Shot Learning,CVPR,DSA,y,2022
+Improving Neural Architecture Search by Mixing a FireFly Algorithm with a Training Free Evaluation,IJCNN,MA,y,2022
+LiteTransformerSearch: Training-free On-device Search for Efficient Autoregressive Language Models,AutoML-Conf,MA,y,2022
+MAE-DET: Revisiting Maximum Entropy Principle in Zero-Shot NAS for Efficient Object Detection,ICML,MA,y,2022
+NASI: Label- and Data-agnostic Neural Architecture Search at Initialization,ICLR,DSA,y,2022
+SpiderNet: Hybrid Differentiable-Evolutionary Architecture Search via Train-Free Metrics,CVPR,MA and DSA,y,2022
+A Training-Free Genetic Neural Architecture Search,ICEA,MA,n,2021
+A Feature Fusion Based Indicator for Training-Free Neural Architecture Search,IEEE Access,MA,n,2021
+Bayesian Neural Architecture Search using a Training-Free Performance Metric,ASOC,BO,y,2021
+EPE-NAS: Efficient Performance Estimation Without Training for Neural Architecture Search,ICANN,RS,y,2021
+KNAS: Green Neural Architecture Search,ICML,RS,y,2021
+Neural Architecture Search on ImageNet in Four GPU Hours: A Theoretically Inspired Perspective,ICLR,DSA,y,2021
+Neural Architecture Search without Training,ICML,RS,y,2021
+Reliable and Fast Recurrent Neural Network Architecture Optimization,arXiv,MA,n,2021
+Training-Free Multi-objective Evolutionary Neural Architecture Search via Neural Tangent Kernel and Number of Linear Regions,ICONIP,MA,y,2021
+Training-Free Hardware-Aware Neural Architecture Search with Reinforcement Learning,JBE,RL,n,2021
+Understanding and Accelerating Neural Architecture Search with Training-Free and Theory-Grounded Metrics,arXiv,MA and RL,y,2021
+Zen-NAS: A Zero-Shot NAS for High-Performance Image Recognition,ICCV,MA,y,2021
+Zero-Cost Proxies for Lightweight NAS,ICLR,"RS, RL, and MA",y,2021
+"Towards NNGP-guided Neural Architecture Search	",arXiv,RS,y,2020
+Low-Cost Recurrent Neural Network Expected Performance Evaluation,arXiv,RS,n,2018
