@@ -24,7 +24,7 @@ plt.xticks(fontsize=10, rotation=45)
 plt.yticks(fontsize=10)
 plt.tight_layout()
 
-plt.savefig("../fig/phrase_count.pdf", format="pdf", bbox_inches="tight")
+plt.savefig("../fig/phrase_count.png", format="png", dpi=300, bbox_inches="tight")
 
 for phrase, count in word_counts.items():
     print(f'Occurrences of "{phrase}" in titles: {count}')
