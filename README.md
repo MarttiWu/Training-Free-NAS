@@ -4,6 +4,8 @@ A list of training-free neural architecture search papers.
 [Training-Free Neural Architecture Search: A Review](https://doi.org/10.1016/j.icte.2023.11.001)
 
 ## Training-Free NAS papers
+<p align="center"><img src="./statistics/fig/phrase_count.pdf" width="100%" height="100%" /></p>
+
 |  RS  |   BO  |   RL   |   DSA   |   MA   |
 |:--------|:--------|:--------|:--------|:--------|
 | Random Search | Bayesian Optimization | Reinforcement Learning | Differentiable Search Algorithm | Metaheuristic Algorithm |
