@@ -3,8 +3,8 @@ A list of training-free neural architecture search papers.
 
 [Training-Free Neural Architecture Search: A Review](https://doi.org/10.1016/j.icte.2023.11.001)
 
-## Training-Free NAS papers
-<p align="left"><img src="./statistics/fig/phrase_count.png" width="=100%" height="100%" /></p>
+## Training-Free NAS Papers
+<p align="left"><img src="./statistics/fig/stats.png" width="=100%" height="100%" /></p>
 
 |  RS  |   BO  |   RL   |   DSA   |   MA   |
 |:--------|:--------|:--------|:--------|:--------|
