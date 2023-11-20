@@ -1,7 +1,14 @@
 # Training-Free-NAS
-A list of training-free neural architecture search papers.
 
 [Training-Free Neural Architecture Search: A Review](https://doi.org/10.1016/j.icte.2023.11.001)
+
+Training-Free Neural Architecture Search (NAS) is an innovative approach within the field of NAS  that aims to streamline the process of discovering optimal neural network architectures without relying on traditional training paradigms.
+
+Unlike conventional NAS methods that involve iterative training and evaluation of numerous architectures to identify the best-performing one, training-free NAS explores architectures without training. Instead, it often leverages training-free score functions, zero-cost proxies, or analytical methods to estimate or directly predict the performance of neural network architectures, significantly reducing computational overhead and resource requirements.
+
+These methods are designed to accelerate the architecture search process, making it more efficient, cost-effective, and accessible for researchers and practitioners. Training-free NAS contributes to advancing the field of deep learning by expediting the discovery of novel architectures and facilitating their deployment in various domains, including computer vision, natural language processing, etc.
+
+This repository serves as a curated collection of research papers and benchmarks dedicated to training-free NAS, aiming to provide a comprehensive resource for understanding, exploring, and evaluating these innovative approaches in NAS.
 
 ## Training-Free NAS Papers
 <p align="left"><img src="./statistics/fig/stats.png" width="=100%" height="100%" /></p>
