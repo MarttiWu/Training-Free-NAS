@@ -60,3 +60,24 @@ This repository serves as a curated collection of research papers and benchmarks
 | [TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search](http://openaccess.thecvf.com/content/CVPR2021/html/Duan_TransNAS-Bench-101_Improving_Transferability_and_Generalizability_of_Cross-Task_Neural_Architecture_Search_CVPR_2021_paper.html) | CVPR | 7.3k | [VEGA]( https://www.noahlab.com.hk/opensource/vega/page/doc.html?path=datasets/transnasbench101) |
 | [NAS-Bench-360: Benchmarking Neural Architecture Search on Diverse Tasks](https://proceedings.neurips.cc/paper_files/paper/2022/hash/506630e4a43bb9d64a49f98b9ba934e9-Abstract-Datasets_and_Benchmarks.html) | NeurIPS | 15.6k | [Github](https://github.com/rtu715/NAS-Bench-360) |
 | [NAS-Bench-Zero: A Large Scale Dataset for Understanding Zero-Shot Neural Architecture Search](https://openreview.net/forum?id=hP-SILoczR) | - | 14.9k+10.1k+9.7k | - |
+
+## Contributing
+Contributions and feedback are welcome! Feel free to open issues or pull requests to improve existing content.
+
+## License
+This repository is licensed under the [MIT License](LICENSE).
+
+## Support
+If you find this repository helpful, consider giving it a star ⭐️.
+
+If you find this repository or the resources included herein helpful in your research or work, you can cite it using the following BibTeX entry:
+
+```bibtex
+@misc{Wu2023,
+  author = {Wu, Meng-Ting},
+  title = {Training-Free NAS},
+  year = {2023},
+  journal = {GitHub repository},
+  publisher = {GitHub},
+  howpublished = {\url{https://github.com/MarttiWu/Training-Free-NAS}},
+}
