@@ -11,7 +11,7 @@ These methods are designed to accelerate the architecture search process, making
 This repository serves as a curated collection of research papers and benchmarks dedicated to training-free NAS, aiming to provide a comprehensive resource for understanding, exploring, and evaluating these innovative approaches in NAS.
 
 ## Training-Free NAS Papers
-<p align="left"><img src="./statistics/fig/stats.png" width="=100%" height="100%" /></p>
+![](statistics/fig/stats.png)
 
 |  RS  |   BO  |   RL   |   DSA   |   MA   |
 |:--------|:--------|:--------|:--------|:--------|
